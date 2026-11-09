@@ -1,1 +1,1 @@
-Direct case base.
+Direct case: harmless qualification change.
